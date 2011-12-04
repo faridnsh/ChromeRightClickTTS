@@ -4,7 +4,6 @@ chrome.contextMenus.create({
         var str = info.selectionText
         var options = {
             "lang" : "en-US",
-            "voiceName" : "Flite SLT American Female",
             "rate" : 1,
             "pitch" : 1,
             "volume" : 1
