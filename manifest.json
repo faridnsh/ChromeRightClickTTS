@@ -1,0 +1,8 @@
+{
+  "name": "Right Click Text to Speech",
+  "description": "Right click on any selection and hear it!",
+  "version": "0.0.1",
+  "permissions": ["contextMenus","tts"],
+  "background_page": "background.html",
+  "content_security_policy": "default-src 'self'"
+}
